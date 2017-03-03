@@ -1,7 +1,7 @@
-# Go land learning
+# Go language L&D
 
-Go land development
-========
+Go lang development
+=======
 
 Learning go for fun.
 
